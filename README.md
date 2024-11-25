@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natnaelbr
 - 👀 I’m interested in Software Development and Data Analysis
-- 🌱 I’m currently learning Front-End Web Development from Meta @Coursera && Data Analysis from Google @Coursera
+- 🌱 I’m currently learning JS, Python, Machine Learning, AI by self && Data Analysis from Google @Coursera
 - 💞️ I'm seeking collaboration opportunities in Software Development and Data Analysis projects
 - 📫 How to reach me Email: natnaelbirhan30@outlook.com && natnaelbirhan1440@gmail.com
 - ⚡ Fun fact: I hold a Bachelor of Science Degree in Electrical and Computer Engineering with a focus on Computer Science
